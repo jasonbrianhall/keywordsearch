@@ -1,4 +1,4 @@
-#include "whistle.h"
+#include "keyword.h"
 
 // XMLSpreadsheetWriter implementation
 std::string XMLSpreadsheetWriter::escapeXML(const std::string& text) {

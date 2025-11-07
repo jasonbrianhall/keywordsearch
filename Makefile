@@ -37,9 +37,9 @@ BUILD_DIR = build
 BIN_DIR = bin
 
 # Source files
-SOURCES = whistle.cpp
-OBJECTS = $(BUILD_DIR)/whistle.o
-TARGET = $(BIN_DIR)/whistle
+SOURCES = keyword.cpp
+OBJECTS = $(BUILD_DIR)/keyword.o
+TARGET = $(BIN_DIR)/keyword
 
 # Default target
 .PHONY: all
